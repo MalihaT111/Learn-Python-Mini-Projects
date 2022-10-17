@@ -26,6 +26,23 @@ Day 1:
   2. Banker Roulette: a program that will select a random name from a list of names. The person selected will have to pay for everybody's food bill.
   3. Treasure Map: a program that marks a nested list with an x.
   4. Rock Paper Scissors: a rock paper scissors simulator. 
-
+  
+  Day 5:
+  1. Average Height: a program that calculates the average student height from a List of heights.
+  2. High Score: a program that calculates the highest score from a List of scores.
+  3. Adding Even Numbers: a program that calculates the sum of all the even numbers from 1 to 100.
+  4. FizzBuzz: a program that automatically prints the solution to the FizzBuzz game.
+  5. Password Generator: a program that generates a password for you.
+  
+  Day 6:
+  1. Escaping the Maze:
+  
+  Day 7:
+  
+  Day 8:
+   1. Paint Area Calculator: given a random height and width of wall, calculate how many cans of paint you'll need to buy.
+   2. Prime Numbers: write a function that checks whether if the number passed into it is a prime number or not
+   
+ 
 
   
